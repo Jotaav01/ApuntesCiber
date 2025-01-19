@@ -1,0 +1,2 @@
+A SABER
+En este caso una Webshell no es una vulnerabilidad como tal, sino que es una script o fragmento de codigo que nosotros vamos a inyectar en la maquina que esta alojando la aplicacion web, de manera que nosotros podamos ganar cosas como persistencia en esa maquina, ejecucion remota de comandos etc…

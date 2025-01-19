@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "372e46541aa7f19f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5746556e0f0d4f09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e023f518b9ebef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S4vitar LINUX/Scripting Bash/3-6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba15513d727bbc31",
+    "type": "split",
+    "children": [
+      {
+        "id": "39695a2ce75ca687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b837e3703c94948",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "8e96117695bba6b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2187da3e7518ec5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2a767ee44a57354b",
+    "type": "split",
+    "children": [
+      {
+        "id": "56ebcca85f1c212e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9078727911cf9d5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "S4vitar LINUX/Scripting Bash/3-6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed1d8cdf8d86c7e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "S4vitar LINUX/Scripting Bash/3-6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d041e14e822f687",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1837f0396411def1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "S4vitar LINUX/Scripting Bash/3-6.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b9e023f518b9ebef",
+  "lastOpenFiles": [
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240530214715.png",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240530214642.png",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240530214340.png",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240530214111.png",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240530213359.png",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240530212952.png",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240530212146.png",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/funcionseachrMachines.png",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240530210624.png",
+    "S4vitar LINUX/Scripting Bash/2-6.md",
+    "S4vitar LINUX/Scripting Bash/1-6.md",
+    "S4vitar LINUX/Scripting Bash/3-6.md",
+    "S4vitar LINUX/Sin título.md",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240529214229.png",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS/Pasted image 20240529213914.png",
+    "S4vitar LINUX/Scripting Bash/Proyecto Bash.md",
+    "S4vitar HO/ENLACES.md",
+    "S4vitar LINUX/Tareas Cron.md",
+    "S4vitar LINUX/Comandos.md",
+    "S4vitar LINUX/Conexiones ssh.md",
+    "S4vitar LINUX/Kitty.md",
+    "S4vitar LINUX/ADJUNTOS",
+    "S4vitar LINUX/Scripting Bash/Lo Basico.md",
+    "S4vitar LINUX/Scripting Bash/ADJUNTOS",
+    "S4vitar LINUX/Búsqueda Archivos.md",
+    "S4vitar LINUX/Scripting Bash",
+    "S4vitar LINUX/Chattr y Lsattr.md",
+    "S4vitar LINUX/Operadores.md",
+    "LINUX/Dudas Comandos.md",
+    "SOC/Sobre el curso.md",
+    "SOC/Enlaces de Interes.md",
+    "SOC/Mitre CALDERA.md",
+    "OWASP/OWASP.md",
+    "LINUX/BASH scripting/Lo basico.md",
+    "LINUX/BASH scripting/Primer Proyecto.md",
+    "LINUX/BASH scripting/OverTheWire.md",
+    "LINUX/ESTRUCTURA DIRECTORIOS.md",
+    "imgs/ADJUNTOS",
+    "Fases HE/Análisis de vulnerabilidades/Análisis de Vulnerabilidades.md",
+    "S4vitar LINUX/Sin título 1",
+    "CONCEPTOS",
+    "CONCEPTOSS/IMGS.md",
+    "CONCEPTOSS",
+    "S4vitar ENTORNO",
+    "S4vitar LINUX",
+    "S4vitar HO"
+  ]
+}
